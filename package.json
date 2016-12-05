@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/cedriccefc2002/ElectronBookDemo#readme",
   "devDependencies": {
-    "electron": "^1.4.10"
+    "electron": "^1.4.10",
+    "typescript": "^2.1.1",
+    "typings": "^2.0.0"
   }
 }

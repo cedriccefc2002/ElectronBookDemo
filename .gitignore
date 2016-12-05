@@ -43,3 +43,8 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+#typescript
+
+*.js
+*.js.map
