@@ -53,3 +53,7 @@ app.on('ready', () => {
     });
 });
 ```
+
+## 執行結果：
+
+![執行結果](examples/tray/result.png)
