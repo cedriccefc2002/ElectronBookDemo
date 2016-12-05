@@ -41,7 +41,7 @@ app.on('ready', () => {
         },
         {
             label: '關閉', click: () => {
-                process.exit();
+                app.exit(0);
             }
         }
     ]);
